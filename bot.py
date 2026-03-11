@@ -11,7 +11,7 @@ API_TOKEN = TOKEN
 bot = telebot.TeleBot(API_TOKEN)
 
 # ключ от openweathermap
-WEATHER_API_KEY = '42e350199fc9e564dfdb2eb21e3c540e'
+WEATHER_API_KEY = 'ВАШ API'
 
 # создаём клавиатуру с кнопками
 def get_keyboard():
